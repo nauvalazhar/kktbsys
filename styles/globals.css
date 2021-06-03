@@ -1,0 +1,15 @@
+@import 'tailwindcss/tailwind.css';
+@import 'slick-carousel/slick/slick.css';
+@import 'slick-carousel/slick/slick-theme.css';
+
+.slick-list { 
+  @apply -mx-6;
+}
+
+.slick-slide > div { 
+  @apply px-6;
+} 
+
+.slick-dots {
+  @apply static mt-12;
+}
