@@ -85,29 +85,21 @@ export default function Index() {
 
         <meta property="og:site_name" content="KKTBSYS" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://karstn.co/socialfeeds" />
+        <meta property="og:url" content="https://kktbsys.vercel.app/" />
         <meta property="og:title" content="KKTBSYS" />
         <meta
           property="og:description"
           content="Tailwind & Next Mentorship Template"
         />
-        <meta
-          property="og:image"
-          content="https://karstn.co/socialfeeds-preview.png"
-        />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://karstn.co/socialfeeds" />
+        <meta property="twitter:url" content="https://kktbsys.vercel.app/" />
         <meta property="twitter:title" content="KKTBSYS" />
         <meta
           property="twitter:description"
           content="Tailwind & Next Mentorship Template"
         />
-        <meta
-          property="twitter:image"
-          content="https://karstn.co/socialfeeds-preview.png"
-        />
-        <link rel="canonical" href="http://localhost:3000" />
+        <link rel="canonical" href="https://kktbsys.vercel.app/" />
 
         <title>KKTBSYS &mdash; Tailwind & Next Mentorship Template</title>
         <link rel="shortcut icon" href="/logo.png" />
